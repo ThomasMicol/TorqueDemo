@@ -1,5 +1,6 @@
 dist/Main.js
 dist/Main.js.map
+node_modules/
 node_modules/.bin/tsc
 node_modules/.bin/tsc.cmd
 node_modules/.bin/tsserver
@@ -299,3 +300,4 @@ node_modules/typescript/loc/lcl/TRK/Targets/TypeScriptProjectProperties.xaml.lcl
 node_modules/typescript/loc/lcl/TRK/TypeScriptDebugEngine/TypeScriptDebugEngine.dll.lcl
 node_modules/typescript/loc/lcl/TRK/TypeScriptLanguageService/Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl
 node_modules/typescript/loc/lcl/TRK/TypeScriptTasks/TypeScript.Tasks.dll.lcl
+node_modules/.bin/tsc.ps1
