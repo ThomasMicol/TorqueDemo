@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "common-js": "^0.3.8",
     "konva": "^7.2.1",
     "tsc": "^1.20150623.0"
   },
