@@ -1,4 +1,9 @@
 import * as Konva from 'konva'
+import IRenderEngine from './'
 
-const myName = "jeff";
-console.log(myName);
+class App{
+    constructor(renderer: IRenderEngine)
+    {
+
+    }
+}
